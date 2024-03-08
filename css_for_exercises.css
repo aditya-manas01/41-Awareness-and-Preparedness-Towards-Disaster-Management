@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+   }
+   
+   h1, h2 {
+    color: #0077cc;
+    text-decoration: underline;
+   }
+   
+   p {
+    margin-bottom: 20px;
+    font-weight: bold;
+    
+   }
+   
