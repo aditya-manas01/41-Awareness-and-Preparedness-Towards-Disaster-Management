@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #003366;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+h2 {
+    color: #003366;
+}
+
+footer {
+    background-color: #003366;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+.school_safety_programmes::after{
+    content: '';
+    width: 0%;
+    height: 2px;
+    background: #f55446;
+    display:block;
+    margin: auto;
+    transition: 0.5s;
+}
